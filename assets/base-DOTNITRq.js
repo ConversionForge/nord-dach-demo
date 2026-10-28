@@ -1,0 +1,1 @@
+var e=`/nord-dach-demo/`.replace(/\/?$/,`/`),t=t=>t.startsWith(`/`)&&!t.startsWith(`//`)?e+t.slice(1):t,n=t=>e!==`/`&&t.startsWith(e)?`/${t.slice(e.length)}`:e!==`/`&&`${t}/`===e?`/`:t;export{n,t as r,e as t};

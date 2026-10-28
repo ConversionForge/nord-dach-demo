@@ -1,0 +1,68 @@
+{
+  "name": "Nord-Dach Service (Demo)",
+  "short_name": "Nord-Dach",
+  "description": "Baustellenfotos mit Typ direkt auf den Firmenserver – Baustelle per Standort, Aufträge, Material, Dokumente.",
+  "id": "/nord-dach-demo/",
+  "start_url": "/nord-dach-demo/?quelle=app",
+  "scope": "/nord-dach-demo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a111e",
+  "theme_color": "#0a111e",
+  "lang": "de",
+  "categories": [
+    "business",
+    "productivity",
+    "photo"
+  ],
+  "icons": [
+    {
+      "src": "/nord-dach-demo/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nord-dach-demo/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nord-dach-demo/icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/nord-dach-demo/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Foto aufnehmen",
+      "short_name": "Kamera",
+      "url": "/nord-dach-demo/kamera",
+      "icons": [
+        {
+          "src": "/nord-dach-demo/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Baustellen",
+      "short_name": "Baustellen",
+      "url": "/nord-dach-demo/baustellen",
+      "icons": [
+        {
+          "src": "/nord-dach-demo/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

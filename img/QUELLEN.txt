@@ -1,0 +1,12 @@
+Bildquellen der App (kostenlos, auch gewerblich, ohne Namensnennung)
+Unsplash-Lizenz: https://unsplash.com/license · Pexels-Lizenz: https://www.pexels.com/de-de/lizenz/
+
+header.webp        Titelbild mit Logo, von Nord-Dach Service bereitgestellt (Oktober 2026)
+hero.webp          https://unsplash.com/photos/jj-8UWDDXuA   (Handy fotografiert Gebäude)
+baustellen.webp    https://unsplash.com/photos/NNZ_u-WKgIo   (Wohnhaus mit Balkonen)
+auftraege.webp     https://unsplash.com/photos/4b49qpzz-eU   (Klemmbrett mit Skizze)
+material.webp      https://unsplash.com/photos/-kWkoUkFyp0   (Metall-Coils)
+doku.webp          https://unsplash.com/photos/fteR0e2BzKo   (Bleistift auf Bauplan)
+mitarbeiter.webp   https://unsplash.com/photos/2ASQyjafflo   (weißer Bauhelm)
+server.webp        https://unsplash.com/photos/VHmBX7FnXw0   (Festplatten-Einschübe)
+server-gross.webp  wie server.webp
